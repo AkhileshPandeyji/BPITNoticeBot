@@ -1,0 +1,22 @@
+{
+  "name": "bpit-notice-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "cheerio": "^1.0.0-rc.3",
+    "puppeteer": "^3.0.4",
+    "request": "^2.88.2",
+    "sleep": "^6.1.0",
+    "uniqid": "^5.2.0"
+  }
+}
